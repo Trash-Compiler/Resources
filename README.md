@@ -1,19 +1,19 @@
 # Warzon.io Resources
-These are Resources to the game, Made Publicly Accessable, Without the Source Code. Feel Free to submit some changes, Add a new character, Add some new sound effects, or New weapon to the game.
+These are resources to the game, made publicly accessible, albeit without source code implementation. Feel free to submit changes to this repository if you want to add a new character, sound effects, or weapon to the game.
 
-### Resources Contains the Following
+### Resources contain the following:
 
-##### Matirial Files
-- Building Matirials
-- Game Matirials
-- Weapon Matirials
-- Map Gui Matirials
+##### Material Files
+- Building Materials
+- Game Materials
+- Weapon Materials
+- Map GUI Materials
 
 ##### Image Files
 - Characters
 - Weapons
-- Gui Icons
-- Map Gui Icons
+- GUI Icons
+- Map GUI Icons
 - Ranked Icons / Banners
 
 ##### Audio Files
